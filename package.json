@@ -1,0 +1,27 @@
+{
+  "name": "score-challenge",
+  "version": "1.0.0",
+  "description": "Solve a challenge ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aduwillie/ScoreChallenge.git"
+  },
+  "keywords": [
+    "Score",
+    "comments",
+    "challenge"
+  ],
+  "author": "Adu Williams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aduwillie/ScoreChallenge/issues"
+  },
+  "homepage": "https://github.com/aduwillie/ScoreChallenge#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
