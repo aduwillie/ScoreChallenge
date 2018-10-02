@@ -33,4 +33,4 @@ you can console log the output per comment with the different scores per categor
 The key functions are `findScore` and `findScores`.
 
 ## Tests
-All tests are written with `Jest` [https://github.com/facebook/jest]. To run the tests, use `npm run test`.
+All tests are written with `Jest` [https://github.com/facebook/jest]. To run the tests, use `npm run test`. 
