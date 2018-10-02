@@ -1,4 +1,4 @@
-const findScores = require('../src/index');
+const findScores = require('../src');
 
 describe('FindScores', () => {
     it('should throw an error without comment', () => {
